@@ -2,9 +2,9 @@ function App() {
     const [products] = React.useState([
         {
             id: 1,
-            name: "Ensalada César",
-            description: "Lechuga romana fresca con aderezo césar, crutones y queso parmesano",
-            price: 12.99,
+            name: "Jugo la Estancia 1L",
+            description: "Jugo de origen cubano, sabor naranja.",
+            price: 1.50,
             image: "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=500&q=80"
         },
         {
